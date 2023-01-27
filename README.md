@@ -1,2 +1,2 @@
 # odin-recipes
-Basic HTML
+Create a simple html website
