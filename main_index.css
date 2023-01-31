@@ -1,0 +1,54 @@
+.header.back_ground{
+    background-color: rgb(154, 154, 226);
+    height: 60px;
+    width: auto;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+.image{
+    position:absolute;
+    height: auto;
+    width:270px;
+    margin-top: 100px;
+}
+
+.image.burrito{
+    width:400px; 
+    margin-left: 650px;
+   
+}
+.image.burger{
+    margin-left: 1200px;
+}
+
+.image.lasagna{
+    margin-left: 200px;
+}
+
+.food{
+    position: absolute;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 390px;
+}
+
+.latext{
+    margin-left: 280px;
+    
+}
+
+.bertext{
+    margin-left: 1310px;
+    
+}
+
+.burrittext{
+    margin-left: 820px;
+
+}
